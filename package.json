@@ -1,0 +1,26 @@
+{
+  "name": "twitterbot",
+  "version": "1.0.0",
+  "description": "twitter bot demonstration",
+  "main": "TwitterBot.js",
+  "scripts": {
+    "start": "node src/TwitterBot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cagribeyg/TerrorAccurseTwitterBot.git"
+  },
+  "keywords": [
+    "tb"
+  ],
+  "author": "Cagribey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cagribeyg/TerrorAccurseTwitterBot/issues"
+  },
+  "homepage": "https://github.com/Cagribeyg/TerrorAccurseTwitterBot#readme",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
